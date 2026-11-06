@@ -6,6 +6,8 @@
 
 然后看下面的视觉对比。
 
+**最新的：[`KEYFRAMES.md`](KEYFRAMES.md)** —— 按龙龙要求做的三个关键帧（assigned / named / becoming）。
+
 ---
 
 ## 一、原作（pdoom-video 的 `open` 场景，0–15 秒）
